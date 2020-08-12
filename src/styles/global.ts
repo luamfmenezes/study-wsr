@@ -10,7 +10,7 @@ export default createGlobalStyle`
 
     }
     body {
-        background: #FFFCF2;
+        background: #011627;
         color: #FFF;
         -webkit-font-smoothing: antialiased;
         overflow-y:scroll;
